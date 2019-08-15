@@ -8,3 +8,4 @@ You will need
 * underthesea library
 * keras library
 
+We DID manage to trained multiple model to try out our problem, so you might want to do that by modified your training model by go into *_training.py
