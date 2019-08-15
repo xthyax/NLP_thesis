@@ -7,5 +7,6 @@ There are still bugs in our code but...it still able to run the major function
 You will need
 * underthesea library
 * keras library
+* RASA library
 
 We DID manage to trained multiple model to try out our problem, so you might want to do that by modified your training model by go into *_training.py
